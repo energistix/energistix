@@ -44,3 +44,5 @@ Je suis un développeur web en formation. Curieux et motivé, je cherche constam
 
 * 🎓 Étudiant en BUT Informatique
 * 📫 Tu peux me contacter ici : [![LinkedIn](https://img.shields.io/badge/LinkedIn-Florian%20Chasseloup-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florian-chasseloup-895a132a0/)
+
+![ProfileViews](https://komarev.com/ghpvc/?username=energistix)
