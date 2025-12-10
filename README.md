@@ -36,7 +36,7 @@ Je suis un développeur web en formation. Curieux et motivé, je cherche constam
 
 ## 📊 Statistiques GitHub
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=energistix\&layout=compact\&show_icons=true\&theme=dark)
+![Langages les plus utilisés](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=energistix&show_icons=true\&theme=dark)
 
 ---
 
